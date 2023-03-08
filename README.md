@@ -3,7 +3,6 @@
 
 ## Technology used
 * _HTML_
-* _CSS_
 
 ## Contact
 * _NAME: Oloruntayo Kehinde_
